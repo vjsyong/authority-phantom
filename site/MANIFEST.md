@@ -1,16 +1,16 @@
 # Archive manifest - phantom
 
-Authority: `packs/phantom` @ 0.2.0 - generated 2026-10-08T22:51:46+00:00 UTC
+Authority: `authorities/phantom` @ 0.2.0 - generated 2026-10-08T23:02:03+00:00 UTC
 
 | file | role | sha256 (first 16) | size |
 |---|---|---|---|
-| `.site-state.json` | refresh state (pack hash, version, artifact set) | `6d9b8bb5f7cf363f` | 1710 |
-| `agent-brief.md` | asset | `3c8e49a7954aed2f` | 2674 |
+| `.site-state.json` | refresh state (pack hash, version, artifact set) | `07e4b28a202f5254` | 1710 |
+| `agent-brief.md` | asset | `f77f7bec37165abd` | 2681 |
 | `audit.jsonl` | machine-recorded authority call trace | `80a3ab40fc318868` | 91708 |
 | `brief.md` | build brief | `480a1d1e37f09ad0` | 2276 |
-| `index.html` | page | `807e1ede9f3cacf9` | 76333 |
+| `index.html` | page | `04d3ab747183d14b` | 76336 |
 | `log.md` | build log (agent, 1:1 with audit.jsonl) | `fb51b6ca47075014` | 22753 |
-| `refresh-log.md` | refresh log (generated layers vs pack) | `99742389a2b89949` | 1944 |
+| `refresh-log.md` | refresh log (generated layers vs pack) | `dec2c2be79cdab38` | 2810 |
 | `run-authority` | audited runner (build-time tool) | `e0ee73c745af26be` | 1036 |
 | `source-sans-pro-300-latin.woff2` | brand font file | `a327a082ad3f8b9d` | 14692 |
 | `source-sans-pro-700-latin.woff2` | brand font file | `45c6a51457cd1a53` | 14628 |
