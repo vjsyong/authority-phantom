@@ -4,7 +4,7 @@
   "pack": "authorities/phantom",
   "version": "0.2.0"
  },
- "generated_at": "2026-10-09T13:55:42+00:00",
+ "generated_at": "2026-10-09T14:44:54+00:00",
  "checks": {
   "external_references": 1,
   "css_extracted": true,
@@ -26,7 +26,7 @@
  "files": [
   {
    "path": ".site-state.json",
-   "sha256": "2a759114ac3059806b2e8aa2365975e1daee1a112d79eaa00a1ee62c571689e8",
+   "sha256": "46498bca1ee1bbb7d5efe1af5838fdafd05a8f5e0e2ca12d49aec1dd7cfad8a3",
    "size": 1710,
    "role": "refresh state (pack hash, version, artifact set)"
   },
@@ -50,8 +50,8 @@
   },
   {
    "path": "index.html",
-   "sha256": "c58b5e5077ed3efce68a74d4148256c3d3f4bf23b4fdf22a3d0b1c3e41088600",
-   "size": 76337,
+   "sha256": "503ab1afb3699ed0dc0254013f12e7136f1ac4cfec3db015a90c7b7852ed203f",
+   "size": 76338,
    "role": "page"
   },
   {
@@ -62,8 +62,8 @@
   },
   {
    "path": "refresh-log.md",
-   "sha256": "cfc95095605c0fb8e2028ee75f9b85678443ae3c46aea517f607cbe86b0a4e0d",
-   "size": 2996,
+   "sha256": "24f1b78bb4c6a1099fa140ada035591f93c5977d88c3cc0df8dd8bb45f6f2b19",
+   "size": 3182,
    "role": "refresh log (generated layers vs pack)"
   },
   {
